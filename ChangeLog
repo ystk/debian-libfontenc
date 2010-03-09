@@ -1,8 +1,8 @@
-commit 1c26f6e05dbace09a4720482b67d441000d7d78e
+commit e609e939f8b2573ac50bdd317733a2fef194965a
 Author: Peter Hutterer <peter.hutterer@who-t.net>
 Date:   Fri Aug 28 14:14:11 2009 +1000
 
-    Bump to 1.0.5
+    libfontenc 1.0.5
     
     Signed-off-by: Peter Hutterer <peter.hutterer@who-t.net>
 
