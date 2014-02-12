@@ -1,3 +1,25 @@
+libfontenc (1:1.1.1-1) unstable; urgency=low
+
+  * New upstream release.
+  * Remove David Nusinow from Uploaders.
+  * Delete debian/xsfbs/, it's no longer used in this package.
+  * Add build-{arch,indep} debian/rules targets.
+  * Build for multiarch.
+  * Don't require fakeroot for debian/rules clean.
+  * Bump Standards-Version to 3.9.3.
+
+ -- Julien Cristau <jcristau@debian.org>  Sun, 25 Mar 2012 16:48:07 +0200
+
+libfontenc (1:1.1.0-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump xutils-dev build-dep for new macros.
+  * Add xfonts-utils build-dep for font-util macros.
+  * Switch from --list-missing to --fail-missing for additional safety.
+  * Exclude libfontenc.la from dh_install accordingly.
+
+ -- Cyril Brulebois <kibi@debian.org>  Fri, 19 Nov 2010 15:27:29 +0100
+
 libfontenc (1:1.0.5-2) unstable; urgency=low
 
   [ Timo Aaltonen ]

@@ -1,1 +1,1 @@
-usr/lib/libfontenc.so.1*
+usr/lib/*/libfontenc.so.1* usr/lib
