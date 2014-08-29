@@ -1,3 +1,12 @@
+libfontenc (1:1.1.2-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump debhelper compat level to 7.
+  * Use dpkg-buildflags.
+  * Disable silent rules.
+
+ -- Julien Cristau <jcristau@debian.org>  Sun, 16 Jun 2013 13:22:05 +0200
+
 libfontenc (1:1.1.1-1) unstable; urgency=low
 
   * New upstream release.
